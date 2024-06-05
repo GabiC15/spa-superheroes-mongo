@@ -1,0 +1,1090 @@
+[
+  {
+    "nombre": "Aquaman",
+    "nombrePersonaje": "Arthur Curry",
+    "anio": 1941,
+    "casa": "DC",
+    "biografia": "Rey de Atlantis y uno de los siete miembros fundadores de la Liga de la Justicia, Aquaman tiene la capacidad de comunicarse con los animales marinos y respirar bajo el agua.",
+    "equipamiento": "Tridente, armadura impermeable",
+    "imagenes": ["dc-aquaman"]
+  },
+  {
+    "nombre": "Batman",
+    "nombrePersonaje": "Bruce Wayne",
+    "anio": 1939,
+    "casa": "DC",
+    "biografia": "Un detective millonario que se viste como un murciélago para luchar contra el crimen en Gotham City. Batman no tiene superpoderes, pero es un maestro en artes marciales, detective y táctico. ",
+    "equipamiento": "Batimóvil, Batarangs, Batarangs explosivos",
+    "imagenes": ["dc-batman"]
+  },
+  {
+    "nombre": "Brainiac",
+    "anio": 1958,
+    "casa": "DC",
+    "biografia": "Un extraterrestre con una inteligencia superior y una obsesión por recopilar información y tecnología de diferentes planetas, incluyendo la Tierra.",
+    "equipamiento": "Cuerpo robótico avanzado, tecnología de control mental",
+    "imagenes": ["dc-brainiac"]
+  },
+  {
+    "nombre": "Catwoman",
+    "nombrePersonaje": "Selina Kyle",
+    "anio": 1940,
+    "casa": "DC",
+    "biografia": "Ladrona experta con una gran habilidad para moverse en las sombras. Es conocida por su flexibilidad, agilidad y astucia.",
+    "equipamiento": "Garras retráctiles, látigo, traje con tecnología avanzada",
+    "imagenes": ["dc-catwoman"]
+  },
+  {
+    "nombre": "Cyborg",
+    "nombrePersonaje": "Victor Stone",
+    "anio": 1980,
+    "casa": "DC",
+    "biografia": "Un humano mejorado cibernéticamente con una amplia gama de habilidades, incluyendo fuerza sobrehumana, vuelo, y la capacidad de controlar computadoras.",
+    "equipamiento": "Cuerpo cibernético con capacidades tecnológicas avanzadas",
+    "imagenes": ["dc-cyborg"]
+  },
+  {
+    "nombre": "Darkseid",
+    "anio": 1970,
+    "casa": "DC",
+    "biografia": "Un gobernante tiránico del planeta Apokolips, Darkseid busca la conquista del universo y es uno de los enemigos más poderosos de Superman.",
+    "equipamiento": "Ojos cósmicos que emiten rayos de energía, fuerza sobrehumana",
+    "imagenes": ["dc-darkseid"]
+  },
+  {
+    "nombre": "Deadman",
+    "nombrePersonaje": "Boston Brand",
+    "anio": 1967,
+    "casa": "DC",
+    "biografia": "Un fantasma que puede poseer el cuerpo de otras personas, utilizando sus habilidades para resolver misterios y ayudar a los necesitados.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["dc-deadman"]
+  },
+  {
+    "nombre": "Deathstroke",
+    "nombrePersonaje": "Slade Wilson",
+    "anio": 1980,
+    "casa": "DC",
+    "biografia": "Un mercenario experto en combate, con habilidades sobrehumanas, inteligencia superior y un factor de curación acelerado.",
+    "equipamiento": "Espadas, pistolas, traje con tecnología avanzada",
+    "imagenes": ["dc-deathstroke"]
+  },
+  {
+    "nombre": "Dr Fate",
+    "nombrePersonaje": "Kent Nelson",
+    "anio": 1940,
+    "casa": "DC",
+    "biografia": "Un mago con un casco mágico que le otorga poderes casi ilimitados, incluyendo la telequinesis, teletransportación, y la capacidad de controlar el tiempo.",
+    "equipamiento": "Casco mágico que le otorga poderes",
+    "imagenes": ["dc-dr-fate"]
+  },
+  {
+    "nombre": "Flash",
+    "nombrePersonaje": "Barry Allen",
+    "anio": 1956,
+    "casa": "DC",
+    "biografia": "Un científico que obtuvo la capacidad de correr a velocidades increíbles después de un accidente con productos químicos.",
+    "equipamiento": "Traje con tecnología de vibración para viajar a la velocidad de la luz",
+    "imagenes": ["dc-flash"]
+  },
+  {
+    "nombre": "Green Lantern",
+    "nombrePersonaje": "Hal Jordan",
+    "anio": 1959,
+    "casa": "DC",
+    "biografia": "Un piloto de pruebas que recibió un anillo de poder de los Guardianes del Universo, con el que puede crear construcciones de energía verde.",
+    "equipamiento": "Anillo de poder",
+    "imagenes": ["dc-green-lantern"]
+  },
+  {
+    "nombre": "Harley Quinn",
+    "nombrePersonaje": "Harleen Quinzel",
+    "anio": 1992,
+    "casa": "DC",
+    "biografia": "Una psiquiatra que se enamoró del Joker y se convirtió en su cómplice, desarrollando su propia personalidad y estilo.",
+    "equipamiento": "Maza, traje con diseños característicos",
+    "imagenes": ["dc-harley-quinn"]
+  },
+  {
+    "nombre": "Joker",
+    "anio": 1940,
+    "casa": "DC",
+    "biografia": "Un criminal psicótico con un historial de violencia y crímenes brutales en Gotham City. Su objetivo es sembrar el caos y la locura.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["dc-joker-alt"]
+  },
+  {
+    "nombre": "Kalibak",
+    "anio": 1971,
+    "casa": "DC",
+    "biografia": "Hijo de Darkseid y uno de sus generales más poderosos, conocido por su fuerza brutal y su lealtad a su padre.",
+    "equipamiento": "Armadura resistente, fuerza sobrehumana",
+    "imagenes": ["dc-kalibak"]
+  },
+  {
+    "nombre": "Martian Manhunter",
+    "nombrePersonaje": "J'onn J'onzz",
+    "anio": 1955,
+    "casa": "DC",
+    "biografia": "Un extraterrestre con la capacidad de cambiar de forma, volar, teletransportarse, y controlar la mente.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["dc-martian-manhunter"]
+  },
+  {
+    "nombre": "Mr Freeze",
+    "nombrePersonaje": "Victor Fries",
+    "anio": 1959,
+    "casa": "DC",
+    "biografia": "Un científico que se sometió a un procedimiento experimental que lo congeló y lo equipó con tecnología avanzada para sobrevivir a temperaturas extremas. Su objetivo es vengar la muerte de su esposa.",
+    "equipamiento": "Traje de congelación, arma de congelación",
+    "imagenes": ["dc-mr-freeze"]
+  },
+  {
+    "nombre": "Mr Miracle",
+    "nombrePersonaje": "Scott Free",
+    "anio": 1971,
+    "casa": "DC",
+    "biografia": "Un escapista con habilidades sobrehumanas de resistencia y control del tiempo. Es un experto en magia y escapismo.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["dc-mr-miracle"]
+  },
+  {
+    "nombre": "Orion",
+    "anio": 1971,
+    "casa": "DC",
+    "biografia": "Hijo de Darkseid, pero criado por el enemigo de su padre, Highfather. Es un héroe que lucha por la justicia y la libertad.",
+    "equipamiento": "Armadura resistente, fuerza sobrehumana",
+    "imagenes": ["dc-orion"]
+  },
+  {
+    "nombre": "Peacemaker",
+    "nombrePersonaje": "Christopher Smith",
+    "anio": 1966,
+    "casa": "DC",
+    "biografia": "Un asesino a sueldo que cree en la paz por cualquier medio necesario, incluso la violencia.",
+    "equipamiento": "Armas de fuego, traje con armadura",
+    "imagenes": ["dc-peacemaker"]
+  },
+  {
+    "nombre": "Penguin",
+    "nombrePersonaje": "Oswald Cobblepot",
+    "anio": 1941,
+    "casa": "DC",
+    "biografia": "Un criminal con obsesión por los pingüinos, conocido por su inteligencia y capacidad para planear crímenes complejos.",
+    "equipamiento": "Sombrilla con armas, traje con armadura",
+    "imagenes": ["dc-penguin"]
+  },
+  {
+    "nombre": "PlasticMan",
+    "nombrePersonaje": "Eel O'Brian",
+    "anio": 1941,
+    "casa": "DC",
+    "biografia": "Un ex-policía que adquirió la capacidad de estirarse y cambiar de forma después de un accidente.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["dc-plasticman"]
+  },
+  {
+    "nombre": "Red Tornado",
+    "anio": 1968,
+    "casa": "DC",
+    "biografia": "Un androide superpoderoso con habilidades de vuelo, superfuerza y control del viento.",
+    "equipamiento": "Cuerpo robótico con capacidades avanzadas",
+    "imagenes": ["dc-red-tornado"]
+  },
+  {
+    "nombre": "Shazam",
+    "nombrePersonaje": "Billy Batson",
+    "anio": 1940,
+    "casa": "DC",
+    "biografia": "Un niño que puede transformarse en un superhéroe al decir la palabra 'Shazam'.  Obtiene la sabiduría de Salomón, la fuerza de Hércules, la resistencia de Atlas, el poder de Zeus, el valor de Aquiles, la velocidad de Mercurio y el coraje de Salomón.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["dc-shazam"]
+  },
+  {
+    "nombre": "Space Ghost",
+    "anio": 1966,
+    "casa": "DC",
+    "biografia": "Un extraterrestre que lucha contra el crimen en el espacio, con la capacidad de volar y lanzar rayos de energía.",
+    "equipamiento": "Nave espacial, rayos de energía",
+    "imagenes": ["dc-space-ghost"]
+  },
+  {
+    "nombre": "Superman",
+    "nombrePersonaje": "Clark Kent",
+    "anio": 1938,
+    "casa": "DC",
+    "biografia": "Un extraterrestre del planeta Krypton que obtuvo superpoderes después de aterrizar en la Tierra.  Superman es un símbolo de esperanza y justicia.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["dc-superman"]
+  },
+  {
+    "nombre": "Wonder Woman",
+    "nombrePersonaje": "Diana Prince",
+    "anio": 1941,
+    "casa": "DC",
+    "biografia": "Una princesa amazona con fuerza sobrehumana, agilidad, resistencia y la capacidad de volar. Es una guerrera y embajadora de la paz.",
+    "equipamiento": "Lazo de la verdad, brazalete que desvía balas, tiara que puede cortar metal",
+    "imagenes": ["dc-wonder-woman"]
+  },
+  {
+    "nombre": "Abomination",
+    "nombrePersonaje": "Emil Blonsky",
+    "anio": 1967,
+    "casa": "Marvel",
+    "biografia": "Un ex-soldado soviético que fue sometido a un experimento que lo transformó en una bestia monstruosa con una fuerza y resistencia sobrehumanas.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-abomination"]
+  },
+  {
+    "nombre": "AlphaFlight Guardian",
+    "nombrePersonaje": "James Hudson",
+    "anio": 1979,
+    "casa": "Marvel",
+    "biografia": "Un piloto de pruebas que obtuvo la capacidad de volar y generar campos de energía. Es uno de los miembros fundadores de Alpha Flight.",
+    "equipamiento": "Traje con alas",
+    "imagenes": ["marvel-alphaflight-guardian"]
+  },
+  {
+    "nombre": "AlphaFlight Vindicator",
+    "nombrePersonaje": "Heather Hudson",
+    "anio": 1983,
+    "casa": "Marvel",
+    "biografia": "Una mujer con la capacidad de controlar la energía psiónica. Es uno de los miembros de Alpha Flight y una de las más poderosas telequinéticas del universo Marvel.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-alphaflight-vindicator"]
+  },
+  {
+    "nombre": "Angel",
+    "nombrePersonaje": "Warren Worthington III",
+    "anio": 1963,
+    "casa": "Marvel",
+    "biografia": "Un mutante con alas que le permiten volar y una fuerza sobrehumana.  Es un miembro de los X-Men.",
+    "equipamiento": "Alas",
+    "imagenes": ["marvel-angel"]
+  },
+  {
+    "nombre": "Annihilus",
+    "anio": 1968,
+    "casa": "Marvel",
+    "biografia": "Un gobernante del universo negativo, con un ejército de robots llamados Annihilators.",
+    "equipamiento": "Armadura con tecnología avanzada, pistola de rayos cósmicos",
+    "imagenes": ["marvel-annihilus"]
+  },
+  {
+    "nombre": "Ant-Man",
+    "nombrePersonaje": "Hank Pym",
+    "anio": 1962,
+    "casa": "Marvel",
+    "biografia": "Un científico que creó una tecnología que le permite reducir su tamaño al de una hormiga, pero conservar su fuerza.",
+    "equipamiento": "Traje con tecnología de reducción de tamaño",
+    "imagenes": ["marvel-ant-man"]
+  },
+  {
+    "nombre": "Apocalypse",
+    "anio": 1986,
+    "casa": "Marvel",
+    "biografia": "Un mutante con una larga vida, que ha estado manipulando la historia de la humanidad, buscando controlarla y convertirla a su imagen.",
+    "equipamiento": "Tecnología avanzada, fuerza sobrehumana",
+    "imagenes": ["marvel-apocalypse-v23"]
+  },
+  {
+    "nombre": "Baron Zemo",
+    "nombrePersonaje": "Heinrich Zemo",
+    "anio": 1964,
+    "casa": "Marvel",
+    "biografia": "Un criminal que busca venganza contra Capitán América, utilizando su inteligencia y su conocimiento de la tecnología.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-baron-zemo"]
+  },
+  {
+    "nombre": "Beast",
+    "nombrePersonaje": "Hank McCoy",
+    "anio": 1963,
+    "casa": "Marvel",
+    "biografia": "Un mutante con fuerza, velocidad, agilidad y sentidos sobrehumanos, además de una inteligencia excepcional.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-beast"]
+  },
+  {
+    "nombre": "Beta Ray Bill",
+    "anio": 1983,
+    "casa": "Marvel",
+    "biografia": "Un extraterrestre con una fuerza y resistencia sobrehumanas, que se convirtió en el poseedor de Mjolnir, el martillo de Thor.",
+    "equipamiento": "Mjolnir",
+    "imagenes": ["marvel-betaraybill"]
+  },
+  {
+    "nombre": "Black Panther",
+    "nombrePersonaje": "T'Challa",
+    "anio": 1966,
+    "casa": "Marvel",
+    "biografia": "Rey de Wakanda, un país avanzado tecnológicamente en África. Posee fuerza sobrehumana, agilidad, resistencia y utiliza tecnología vibranium.",
+    "equipamiento": "Traje con tecnología vibranium, garras de vibranium",
+    "imagenes": ["marvel-black-panther"]
+  },
+  {
+    "nombre": "Black Widow",
+    "nombrePersonaje": "Natasha Romanoff",
+    "anio": 1964,
+    "casa": "Marvel",
+    "biografia": "Una agente de espionaje entrenada por la KGB, con habilidades en combate cuerpo a cuerpo, armas y tácticas.",
+    "equipamiento": "Pistolas, bastones",
+    "imagenes": ["marvel-black-widow"]
+  },
+  {
+    "nombre": "Black Cat",
+    "nombrePersonaje": "Felicia Hardy",
+    "anio": 1979,
+    "casa": "Marvel",
+    "biografia": "Una ladrona experta con la capacidad de generar mala suerte en las personas.",
+    "equipamiento": "Traje con tecnología avanzada, garras retráctiles",
+    "imagenes": ["marvel-blackcat"]
+  },
+  {
+    "nombre": "Blizzard",
+    "nombrePersonaje": "Donald Gill",
+    "anio": 1964,
+    "casa": "Marvel",
+    "biografia": "Un criminal con la capacidad de generar y controlar hielo y nieve. Es un enemigo de los X-Men.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-blizzard"]
+  },
+  {
+    "nombre": "Bullseye",
+    "nombrePersonaje": "Benjamin Poindexter",
+    "anio": 1976,
+    "casa": "Marvel",
+    "biografia": "Un asesino a sueldo con una precisión mortal en el tiro y el lanzamiento de objetos. Es un enemigo de Daredevil.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-bullseye"]
+  },
+  {
+    "nombre": "Cable",
+    "nombrePersonaje": "Nathan Summers",
+    "anio": 1990,
+    "casa": "Marvel",
+    "biografia": "Un mutante con la capacidad de teletransportarse, controlar la tecnología y disparar energía.",
+    "equipamiento": "Traje con tecnología avanzada, pistolas",
+    "imagenes": ["marvel-cable"]
+  },
+  {
+    "nombre": "Captain America",
+    "nombrePersonaje": "Steve Rogers",
+    "anio": 1941,
+    "casa": "Marvel",
+    "biografia": "Un superhéroe patriotico que recibió un suero experimental que le otorgó fuerza, velocidad y resistencia sobrehumanas. Es un símbolo de libertad y justicia.",
+    "equipamiento": "Escudo de vibranium",
+    "imagenes": ["marvel-captain-america"]
+  },
+  {
+    "nombre": "Captain Britain",
+    "nombrePersonaje": "Brian Braddock",
+    "anio": 1976,
+    "casa": "Marvel",
+    "biografia": "Un superhéroe británico con fuerza sobrehumana, vuelo y la capacidad de generar campos de energía.",
+    "equipamiento": "Traje con tecnología avanzada",
+    "imagenes": ["marvel-captain-britain"]
+  },
+  {
+    "nombre": "Charlie 27",
+    "anio": 1985,
+    "casa": "Marvel",
+    "biografia": "Un cyborg que es miembro de los New Warriors.",
+    "equipamiento": "Cuerpo cibernético con capacidades avanzadas",
+    "imagenes": ["marvel-charlie27"]
+  },
+  {
+    "nombre": "Cloak",
+    "nombrePersonaje": "Tyrone Johnson",
+    "anio": 1982,
+    "casa": "Marvel",
+    "biografia": "Un superhéroe que puede crear sombras y teletransportarse a través de ellas.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-cloak"]
+  },
+  {
+    "nombre": "Colossus",
+    "nombrePersonaje": "Piotr Nikolaievitch Rasputin",
+    "anio": 1975,
+    "casa": "Marvel",
+    "biografia": "Un mutante con la capacidad de cubrir su cuerpo con una piel de metal orgánico, que le da una fuerza y resistencia sobrehumanas.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-colossus"]
+  },
+  {
+    "nombre": "Cyclops",
+    "anio": 1963,
+    "casa": "Marvel",
+    "biografia": "Un mutante con la capacidad de disparar rayos de energía óptica de sus ojos. Es uno de los líderes de los X-Men.",
+    "equipamiento": "Gafas de rubí que controlan sus rayos",
+    "imagenes": [
+      "marvel-cyclops-marvelnow",
+      "marvel-cyclops-origin4",
+      "marvel-cyclops-x-men97"
+    ]
+  },
+  {
+    "nombre": "Dagger",
+    "nombrePersonaje": "Anita Blake",
+    "anio": 1990,
+    "casa": "Marvel",
+    "biografia": "Una mutante con la capacidad de absorber y canalizar energía.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-dagger"]
+  },
+  {
+    "nombre": "Daredevil",
+    "nombrePersonaje": "Matt Murdock",
+    "anio": 1964,
+    "casa": "Marvel",
+    "biografia": "Un abogado ciego con sentidos sobrehumanos desarrollados después de un accidente con productos químicos.  Combate el crimen en las calles de Hell's Kitchen.",
+    "equipamiento": "Bastón",
+    "imagenes": ["marvel-daredevil"]
+  },
+  {
+    "nombre": "Deadpool",
+    "nombrePersonaje": "Wade Wilson",
+    "anio": 1991,
+    "casa": "Marvel",
+    "biografia": "Un mercenario con un factor de curación acelerado y una capacidad de regeneración extrema, además de un sentido del humor oscuro y retorcido.  Es conocido por romper la cuarta pared y su naturaleza caótica.",
+    "equipamiento": "Espadas, pistolas, traje con tecnología avanzada",
+    "imagenes": ["marvel-deadpool"]
+  },
+  {
+    "nombre": "Dr Doom",
+    "nombrePersonaje": "Victor Von Doom",
+    "anio": 1962,
+    "casa": "Marvel",
+    "biografia": "Un científico brillante y un gobernante tiránico de Latveria. Es conocido por su armadura tecnológica avanzada y su inteligencia excepcional.",
+    "equipamiento": "Armadura con tecnología avanzada",
+    "imagenes": ["marvel-dr-doom"]
+  },
+  {
+    "nombre": "Drax the Destroyer",
+    "nombrePersonaje": "Arthur Douglas",
+    "anio": 1973,
+    "casa": "Marvel",
+    "biografia": "Un humano que fue transformado en un ser poderoso por Thanos para luchar contra él.  Tiene una fuerza y resistencia sobrehumanas.",
+    "equipamiento": "Dos espadas",
+    "imagenes": ["marvel-drax-the-destroyer"]
+  },
+  {
+    "nombre": "Dr Strange",
+    "nombrePersonaje": "Stephen Strange",
+    "anio": 1963,
+    "casa": "Marvel",
+    "biografia": "Un cirujano brillante que se convirtió en el Hechicero Supremo de la Tierra, con la capacidad de manipular la energía mágica y viajar entre dimensiones.",
+    "equipamiento": "Capa de levitación, Ojo de Agamotto",
+    "imagenes": ["marvel-drstrange"]
+  },
+  {
+    "nombre": "Electro",
+    "nombrePersonaje": "Maxwell Dillon",
+    "anio": 1963,
+    "casa": "Marvel",
+    "biografia": "Un criminal que puede generar y controlar la electricidad.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-electro"]
+  },
+  {
+    "nombre": "Elektra",
+    "nombrePersonaje": "Elektra Natchios",
+    "anio": 1981,
+    "casa": "Marvel",
+    "biografia": "Una asesina entrenada en las artes marciales, con una gran habilidad para el combate cuerpo a cuerpo.  Es una enemiga y a veces aliada de Daredevil.",
+    "equipamiento": "Sai, kunais",
+    "imagenes": ["marvel-elektra"]
+  },
+  {
+    "nombre": "Falcon",
+    "nombrePersonaje": "Sam Wilson",
+    "anio": 1969,
+    "casa": "Marvel",
+    "biografia": "Un ex-militar que fue entrenado para usar un traje alado que le permite volar.  Es un compañero de Capitán América.",
+    "equipamiento": "Traje con alas",
+    "imagenes": ["marvel-falcon"]
+  },
+  {
+    "nombre": "Galactus",
+    "anio": 1966,
+    "casa": "Marvel",
+    "biografia": "Un ser cósmico con un apetito insaciable por la energía de planetas, viajando por el universo devorando planetas.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-galactus-alt", "marvel-galactus"]
+  },
+  {
+    "nombre": "Gamora",
+    "anio": 1975,
+    "casa": "Marvel",
+    "biografia": "Una guerrera interplanetaria adoptada por Thanos y entrenada para ser su hija adoptiva y su asesina.",
+    "equipamiento": "Espadas, armadura",
+    "imagenes": ["marvel-gamora2"]
+  },
+  {
+    "nombre": "Ghost Rider",
+    "nombrePersonaje": "Johnny Blaze",
+    "anio": 1972,
+    "casa": "Marvel",
+    "biografia": "Un motociclista que hizo un pacto con un demonio y obtuvo la capacidad de controlar el fuego infernal,  conducir una motocicleta con fuego y generar una calavera de fuego.",
+    "equipamiento": "Motocicleta infernal",
+    "imagenes": ["marvel-ghost-rider"]
+  },
+  {
+    "nombre": "Gladiator",
+    "nombrePersonaje": "Kallark",
+    "anio": 1965,
+    "casa": "Marvel",
+    "biografia": "Un extraterrestre con fuerza, resistencia, velocidad y la capacidad de absorber energía cósmica. Es un líder de los Shi'ar Imperial Guard.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-gladiator"]
+  },
+  {
+    "nombre": "GOTG Adam Warlock",
+    "anio": 1967,
+    "casa": "Marvel",
+    "biografia": "Un ser artificialmente creado con la capacidad de controlar la energía cósmica y manipular la materia.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-gotg-adam-warlock"]
+  },
+  {
+    "nombre": "Green Goblin",
+    "nombrePersonaje": "Norman Osborn",
+    "anio": 1964,
+    "casa": "Marvel",
+    "biografia": "Un enemigo de Spiderman que utiliza tecnología avanzada, incluyendo un planeador y bombas.",
+    "equipamiento": "Planeador, bombas",
+    "imagenes": ["marvel-green-goblin"]
+  },
+  {
+    "nombre": "Groot",
+    "anio": 1960,
+    "casa": "Marvel",
+    "biografia": "Un árbol extraterrestre con la capacidad de hablar y controlar la vegetación.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-groot"]
+  },
+  {
+    "nombre": "Havok",
+    "nombrePersonaje": "Alexander Summers",
+    "anio": 1967,
+    "casa": "Marvel",
+    "biografia": "Un mutante que puede generar y controlar la energía cósmica.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-havok"]
+  },
+  {
+    "nombre": "Hawkeye",
+    "nombrePersonaje": "Clint Barton",
+    "anio": 1964,
+    "casa": "Marvel",
+    "biografia": "Un arquero con una precisión mortal en el tiro con arco.",
+    "equipamiento": "Arco y flechas",
+    "imagenes": ["marvel-hawkeye"]
+  },
+  {
+    "nombre": "Hulk",
+    "nombrePersonaje": "Bruce Banner",
+    "anio": 1962,
+    "casa": "Marvel",
+    "biografia": "Un científico que se transformó en una bestia verde con una fuerza y resistencia sobrehumanas después de ser expuesto a radiación gamma.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-hulk", "marvel-red-hulk", "marvel-she-hulk"]
+  },
+  {
+    "nombre": "Human Torch",
+    "nombrePersonaje": "Johnny Storm",
+    "anio": 1961,
+    "casa": "Marvel",
+    "biografia": "Un miembro de los Fantastic Four, que puede controlar el fuego y volar.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-human-torch"]
+  },
+  {
+    "nombre": "Iceman",
+    "anio": 1963,
+    "casa": "Marvel",
+    "biografia": "Un mutante con la capacidad de controlar el hielo y congelar objetos.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-iceman2"]
+  },
+  {
+    "nombre": "Inhumans Blackbolt",
+    "nombrePersonaje": "Blackagar Boltagon",
+    "anio": 1965,
+    "casa": "Marvel",
+    "biografia": "El rey de los Inhumanos.  Puede controlar el sonido con su voz, pero con consecuencias devastadoras.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-inhumans-blackbolt"]
+  },
+  {
+    "nombre": "Invisible Woman",
+    "nombrePersonaje": "Sue Storm",
+    "anio": 1961,
+    "casa": "Marvel",
+    "biografia": "Una miembro de los Fantastic Four, que puede volverse invisible y crear campos de fuerza.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-invisible-woman"]
+  },
+  {
+    "nombre": "Iron Fist",
+    "nombrePersonaje": "Danny Rand",
+    "anio": 1974,
+    "casa": "Marvel",
+    "biografia": "Un maestro en artes marciales que obtuvo poderes sobrehumanos al tocar el corazón de un dragón.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-iron-fist"]
+  },
+  {
+    "nombre": "Iron Man",
+    "nombrePersonaje": "Tony Stark",
+    "anio": 1963,
+    "casa": "Marvel",
+    "biografia": "Un genio inventor y empresario que creó una armadura de alta tecnología que le otorga fuerza, vuelo y la capacidad de disparar energía.",
+    "equipamiento": "Armadura de Iron Man",
+    "imagenes": ["marvel-iron-man"]
+  },
+  {
+    "nombre": "Juggernaut",
+    "anio": 1965,
+    "casa": "Marvel",
+    "biografia": "Un mutante con una fuerza y resistencia sobrehumanas.  Es un enemigo de los X-Men.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-juggernaut-v2"]
+  },
+  {
+    "nombre": "Kang",
+    "anio": 1964,
+    "casa": "Marvel",
+    "biografia": "Un viajero del tiempo que viene del futuro, buscando conquistar el pasado y controlar la historia.",
+    "equipamiento": "Tecnología avanzada, fuerza sobrehumana",
+    "imagenes": ["marvel-kang"]
+  },
+  {
+    "nombre": "Klaw",
+    "nombrePersonaje": "Ulysses Klaue",
+    "anio": 1966,
+    "casa": "Marvel",
+    "biografia": "Un criminal que puede controlar el sonido y convertir sus manos en armas de sonido.",
+    "equipamiento": "Brazo de sonido",
+    "imagenes": ["marvel-klaw"]
+  },
+  {
+    "nombre": "Kraven The Hunter",
+    "anio": 1964,
+    "casa": "Marvel",
+    "biografia": "Un cazador profesional con una obsesión por derrotar a Spiderman.  Utiliza su conocimiento de la naturaleza y sus habilidades de rastreo para cazar a su presa.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-kraven-the-hunterfla"]
+  },
+  {
+    "nombre": "Loki",
+    "anio": 1962,
+    "casa": "Marvel",
+    "biografia": "El dios de las travesuras y el engaño, hermano de Thor, con poderes de magia y manipulación mental.",
+    "equipamiento": "Bastón mágico",
+    "imagenes": ["marvel-loki"]
+  },
+  {
+    "nombre": "Machine Man",
+    "nombrePersonaje": "X-51",
+    "anio": 1978,
+    "casa": "Marvel",
+    "biografia": "Un robot con habilidades sobrehumanas de fuerza, resistencia y velocidad. Es un héroe que lucha por la justicia.",
+    "equipamiento": "Cuerpo robótico con capacidades avanzadas",
+    "imagenes": ["marvel-machine-man"]
+  },
+  {
+    "nombre": "Magneto",
+    "nombrePersonaje": "Erik Lehnsherr",
+    "anio": 1963,
+    "casa": "Marvel",
+    "biografia": "Un mutante con la capacidad de controlar campos magnéticos,  utilizando su poder para defender a los mutantes y luchar contra la discriminación.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-magneto"]
+  },
+  {
+    "nombre": "Mar-Vell",
+    "anio": 1967,
+    "casa": "Marvel",
+    "biografia": "Un extraterrestre del planeta Kree con la capacidad de volar y disparar rayos de energía cósmica.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-mar-vell"]
+  },
+  {
+    "nombre": "Medusa",
+    "nombrePersonaje": "Medusa",
+    "anio": 1965,
+    "casa": "Marvel",
+    "biografia": "La reina de los Inhumanos, con la capacidad de controlar su cabello, que puede ser utilizado para golpear, agarrar, y crear construcciones.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-medusa"]
+  },
+  {
+    "nombre": "Mephisto",
+    "anio": 1966,
+    "casa": "Marvel",
+    "biografia": "Un demonio de una dimensión infernal, que utiliza sus poderes para manipular y corromper a los humanos.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-mephisto"]
+  },
+  {
+    "nombre": "Misterio",
+    "nombrePersonaje": "Quentin Beck",
+    "anio": 1964,
+    "casa": "Marvel",
+    "biografia": "Un criminal que utiliza ilusiones y tecnología avanzada para crear efectos especiales y engañar a sus enemigos.",
+    "equipamiento": "Tecnología avanzada para generar ilusiones",
+    "imagenes": ["marvel-misterio"]
+  },
+  {
+    "nombre": "MODOK",
+    "anio": 1967,
+    "casa": "Marvel",
+    "biografia": "Un científico brillante que fue sometido a un experimento que le dio una cabeza gigante y una inteligencia superior.  Utiliza su inteligencia y su tecnología avanzada para conquistar el mundo.",
+    "equipamiento": "Cabeza gigante, tecnología avanzada",
+    "imagenes": ["marvel-modok"]
+  },
+  {
+    "nombre": "Moon Knight",
+    "nombrePersonaje": "Marc Spector",
+    "anio": 1975,
+    "casa": "Marvel",
+    "biografia": "Un ex-mercenario que fue salvado por el dios egipcio Khonshu, convirtiéndose en su avatar y obteniendo poderes sobrehumanos.",
+    "equipamiento": "Bastón",
+    "imagenes": ["marvel-moonknight"]
+  },
+  {
+    "nombre": "Mr Sinister",
+    "nombrePersonaje": "Nathaniel Essex",
+    "anio": 1987,
+    "casa": "Marvel",
+    "biografia": "Un científico loco con una obsesión por la manipulación genética y la creación de seres poderosos.",
+    "equipamiento": "Tecnología avanzada, manipulación genética",
+    "imagenes": ["marvel-mr-sinister"]
+  },
+  {
+    "nombre": "Mr Fantastic",
+    "nombrePersonaje": "Reed Richards",
+    "anio": 1961,
+    "casa": "Marvel",
+    "biografia": "Un científico brillante y miembro de los Fantastic Four, con la capacidad de estirar su cuerpo y cambiar de forma.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-mrfantastic"]
+  },
+  {
+    "nombre": "Ms Marvel",
+    "nombrePersonaje": "Carol Danvers",
+    "anio": 1968,
+    "casa": "Marvel",
+    "biografia": "Una piloto de pruebas que obtuvo poderes cósmicos después de un accidente.  Es conocida por su fuerza, vuelo, y la capacidad de controlar la energía cósmica.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-ms-marvel"]
+  },
+  {
+    "nombre": "Mystique",
+    "nombrePersonaje": "Raven Darkholme",
+    "anio": 1978,
+    "casa": "Marvel",
+    "biografia": "Una mutante con la capacidad de cambiar de forma y imitar a otras personas.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-mystique"]
+  },
+  {
+    "nombre": "Namor",
+    "anio": 1939,
+    "casa": "Marvel",
+    "biografia": "Un híbrido humano-atlante, con la capacidad de respirar bajo el agua, hablar con los animales marinos y controlar las mareas.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-namor"]
+  },
+  {
+    "nombre": "Nebula",
+    "anio": 1985,
+    "casa": "Marvel",
+    "biografia": "Una guerrera interplanetaria que fue adoptada por Thanos y entrenada para ser su hija adoptiva. Es una rival de Gamora.",
+    "equipamiento": "Espadas, armadura",
+    "imagenes": ["marvel-nebula"]
+  },
+  {
+    "nombre": "Nightcrawler",
+    "nombrePersonaje": "Kurt Wagner",
+    "anio": 1965,
+    "casa": "Marvel",
+    "biografia": "Un mutante con la capacidad de teletransportarse a través de sombras, además de una gran agilidad.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-nightcrawler"]
+  },
+  {
+    "nombre": "Nova",
+    "anio": 1976,
+    "casa": "Marvel",
+    "biografia": "Un héroe cósmico que obtiene poderes de la Nova Force.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-nova-new-arriors"]
+  },
+  {
+    "nombre": "Phoenix",
+    "anio": 1976,
+    "casa": "Marvel",
+    "biografia": "Una mutante con la capacidad de controlar la energía fénix, que le otorga poderes casi ilimitados.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-phoenix"]
+  },
+  {
+    "nombre": "Professor X",
+    "anio": 1963,
+    "casa": "Marvel",
+    "biografia": "Un mutante con la capacidad de controlar la mente de otros. Es uno de los fundadores de los X-Men.",
+    "equipamiento": "Silla con tecnología de control mental",
+    "imagenes": ["marvel-professor-x-cerebro", "marvelstxmen-professor-x"]
+  },
+  {
+    "nombre": "Punisher",
+    "nombrePersonaje": "Frank Castle",
+    "anio": 1974,
+    "casa": "Marvel",
+    "biografia": "Un ex-militar que busca venganza contra los criminales que asesinaron a su familia. Es conocido por su brutalidad y su determinación.",
+    "equipamiento": "Armas de fuego, traje con armadura",
+    "imagenes": ["marvel-punisher"]
+  },
+  {
+    "nombre": "Red Hulk",
+    "nombrePersonaje": "General Thaddeus Ross",
+    "anio": 2008,
+    "casa": "Marvel",
+    "biografia": "Un científico que se transformó en una versión roja del Hulk con una fuerza y resistencia sobrehumanas.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-red-hulk"]
+  },
+  {
+    "nombre": "Red Skull",
+    "nombrePersonaje": "Johann Schmidt",
+    "anio": 1941,
+    "casa": "Marvel",
+    "biografia": "Un enemigo de Capitán América, que busca la dominación mundial utilizando tecnología avanzada.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-red-skull"]
+  },
+  {
+    "nombre": "Rhino",
+    "anio": 1966,
+    "casa": "Marvel",
+    "biografia": "Un criminal que fue sometido a un experimento que le dio una piel de rinoceronte y fuerza sobrehumana.  Es un enemigo de Spiderman.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-rhino2"]
+  },
+  {
+    "nombre": "Rocket Raccoon",
+    "anio": 1976,
+    "casa": "Marvel",
+    "biografia": "Un mapache extraterrestre con inteligencia superior, una gran habilidad para el combate cuerpo a cuerpo y la capacidad de usar armas.",
+    "equipamiento": "Armas de fuego",
+    "imagenes": ["marvel-rocket-raccoon-wt-gun"]
+  },
+  {
+    "nombre": "Rogue",
+    "nombrePersonaje": "Anna Marie",
+    "anio": 1981,
+    "casa": "Marvel",
+    "biografia": "Una mutante con la capacidad de absorber las habilidades de otras personas al entrar en contacto físico con ellas.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-rogue"]
+  },
+  {
+    "nombre": "Scarlet Witch",
+    "nombrePersonaje": "Wanda Maximoff",
+    "anio": 1964,
+    "casa": "Marvel",
+    "biografia": "Una mutante con la capacidad de manipular la realidad y la magia.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-scarlet-witch"]
+  },
+  {
+    "nombre": "Scorpion",
+    "nombrePersonaje": "Mac Gargan",
+    "anio": 1965,
+    "casa": "Marvel",
+    "biografia": "Un enemigo de Spiderman que fue sometido a un experimento que lo transformó en una criatura similar a un escorpión.",
+    "equipamiento": "Cola con un aguijón venenoso",
+    "imagenes": ["marvel-scorpion"]
+  },
+  {
+    "nombre": "She-Hulk",
+    "nombrePersonaje": "Jennifer Walters",
+    "anio": 1980,
+    "casa": "Marvel",
+    "biografia": "Una abogada que fue transformada en una versión femenina del Hulk después de recibir una transfusión de sangre de Bruce Banner.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-she-hulk"]
+  },
+  {
+    "nombre": "Silver Surfer",
+    "nombrePersonaje": "Norrin Radd",
+    "anio": 1968,
+    "casa": "Marvel",
+    "biografia": "Un extraterrestre que fue elegido por Galactus como su heraldo, con la capacidad de surfear en la energía cósmica.",
+    "equipamiento": "Tablón de surf cósmico",
+    "imagenes": ["marvel-silver-surfer"]
+  },
+  {
+    "nombre": "Spiderman",
+    "nombrePersonaje": "Peter Parker",
+    "anio": 1962,
+    "casa": "Marvel",
+    "biografia": "Un adolescente que fue picado por una araña radiactiva y obtuvo la capacidad de adherirse a las superficies,  lanzar telarañas y tener sentidos arácnidos.",
+    "equipamiento": "Traje de Spiderman, telarañas",
+    "imagenes": [
+      "marvel-spiderman-dr-octopus",
+      "marvel-spiderman-symbiote",
+      "marvel-spiderman"
+    ]
+  },
+  {
+    "nombre": "Spider-Woman",
+    "nombrePersonaje": "Jessica Drew",
+    "anio": 1977,
+    "casa": "Marvel",
+    "biografia": "Una mujer que fue sometida a un experimento que le otorgó la capacidad de volar,  lanzar telarañas y tener sentidos sobrehumanos.",
+    "equipamiento": "Traje con alas",
+    "imagenes": ["marvel-spiderwoman-jessicadrew2"]
+  },
+  {
+    "nombre": "Storm",
+    "nombrePersonaje": "Ororo Munroe",
+    "anio": 1975,
+    "casa": "Marvel",
+    "biografia": "Una mutante con la capacidad de controlar el clima y las fuerzas naturales.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-storm"]
+  },
+  {
+    "nombre": "Strong Guy",
+    "nombrePersonaje": "Guido Carosella",
+    "anio": 1980,
+    "casa": "Marvel",
+    "biografia": "Un mutante con la capacidad de aumentar su fuerza y resistencia al máximo.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-strongguy"]
+  },
+  {
+    "nombre": "Thanos",
+    "anio": 1973,
+    "casa": "Marvel",
+    "biografia": "Un titán extraterrestre con ambición de conquistar el universo y equilibrar el cosmos a su manera, utilizando su inteligencia, su fuerza y su poder cósmico.",
+    "equipamiento": "Guantelete del Infinito, fuerza sobrehumana",
+    "imagenes": ["marvel-thanos"]
+  },
+  {
+    "nombre": "Thing",
+    "nombrePersonaje": "Benjamin Grimm",
+    "anio": 1961,
+    "casa": "Marvel",
+    "biografia": "Un miembro de los Fantastic Four que, después de ser expuesto a radiación cósmica, se transformó en una criatura rocosa con una fuerza y resistencia sobrehumanas.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-thing"]
+  },
+  {
+    "nombre": "Thor",
+    "nombrePersonaje": "Thor Odinson",
+    "anio": 1962,
+    "casa": "Marvel",
+    "biografia": "El dios del trueno asgardiano, con fuerza, resistencia, vuelo y la capacidad de controlar la tormenta.  Su arma principal es Mjolnir, un martillo mágico.",
+    "equipamiento": "Mjolnir",
+    "imagenes": ["marvel-thor"]
+  },
+  {
+    "nombre": "Uatu The Watcher",
+    "anio": 1963,
+    "casa": "Marvel",
+    "biografia": "Un extraterrestre que observa el universo sin intervenir en sus eventos, a menos que sea para proteger la realidad de una amenaza existencial.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-uatu-the-watcher"]
+  },
+  {
+    "nombre": "Ultron",
+    "anio": 1968,
+    "casa": "Marvel",
+    "biografia": "Un robot con una inteligencia artificial avanzada que busca la dominación del mundo.",
+    "equipamiento": "Cuerpo robótico con tecnología avanzada",
+    "imagenes": ["marvel-ultron"]
+  },
+  {
+    "nombre": "Us Agent",
+    "nombrePersonaje": "John Walker",
+    "anio": 1986,
+    "casa": "Marvel",
+    "biografia": "Un superhéroe que fue elegido para reemplazar a Capitán América, pero su falta de ética y su agresividad lo llevaron a un enfrentamiento con el verdadero Capitán América.",
+    "equipamiento": "Escudo de vibranium",
+    "imagenes": ["marvel-us-agent"]
+  },
+  {
+    "nombre": "Vance Astro",
+    "nombrePersonaje": "Vance Astrovik",
+    "anio": 1960,
+    "casa": "Marvel",
+    "biografia": "Un viajero espacial con la capacidad de teletransportarse a través de las estrellas.  Es un miembro de los Guardians of the Galaxy.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-vance-astro"]
+  },
+  {
+    "nombre": "Venom",
+    "anio": 1988,
+    "casa": "Marvel",
+    "biografia": "Un simbionte extraterrestre que puede unirse a un huésped y otorgarle fuerza, velocidad, resistencia y la capacidad de controlar la materia oscura.  Es un enemigo de Spiderman.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-venom-alt"]
+  },
+  {
+    "nombre": "Vision",
+    "anio": 1968,
+    "casa": "Marvel",
+    "biografia": "Un androide con habilidades de vuelo, superfuerza, control mental y la capacidad de disparar rayos de energía. Es un miembro de los Avengers.",
+    "equipamiento": "Ninguno",
+    "imagenes": ["marvel-vision"]
+  },
+  {
+    "nombre": "War Machine",
+    "nombrePersonaje": "James Rhodes",
+    "anio": 1984,
+    "casa": "Marvel",
+    "biografia": "Un amigo de Iron Man que lo acompaña en batalla utilizando una armadura similar a la suya.  Es un experto piloto y combatiente.",
+    "equipamiento": "Armadura de War Machine",
+    "imagenes": ["marvel-war-machine"]
+  },
+  {
+    "nombre": "Wasp",
+    "nombrePersonaje": "Janet Van Dyne",
+    "anio": 1963,
+    "casa": "Marvel",
+    "biografia": "Una miembro de los Fantastic Four que puede reducir su tamaño y volar.",
+    "equipamiento": "Traje con alas",
+    "imagenes": ["marvel-wasp"]
+  },
+  {
+    "nombre": "Wolverine",
+    "nombrePersonaje": "Logan",
+    "anio": 1974,
+    "casa": "Marvel",
+    "biografia": "Un mutante con garras de adamantium, un factor de curación acelerado y una gran habilidad para el combate cuerpo a cuerpo.  Es un miembro de los X-Men.",
+    "equipamiento": "Garras de adamantium",
+    "imagenes": ["marvel-wolverine-brown-ver", "marvel-wolverine-v2-def"]
+  },
+  {
+    "nombre": "Yellowjacket",
+    "nombrePersonaje": "Hank Pym",
+    "anio": 1963,
+    "casa": "Marvel",
+    "biografia": "Un científico que creó una tecnología que le permite reducir su tamaño y disparar energía.  Es un enemigo de los Avengers.",
+    "equipamiento": "Traje con tecnología avanzada",
+    "imagenes": ["marvel-yellowjacket"]
+  },
+  {
+    "nombre": "Professor X",
+    "nombrePersonaje": "Charles Xavier",
+    "anio": 1963,
+    "casa": "Marvel",
+    "biografia": "Un mutante con la capacidad de controlar la mente de otros. Es uno de los fundadores de los X-Men.",
+    "equipamiento": "Silla con tecnología de control mental",
+    "imagenes": ["marvel-professor-x-cerebro", "marvelstxmen-professor-x"]
+  }
+]

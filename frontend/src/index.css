@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-family: Lato, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  color-scheme: dark;
+  background-color: #131519;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
