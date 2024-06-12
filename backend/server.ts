@@ -2,10 +2,11 @@ import express from "express";
 import Server from "./src/index";
 import { MongoClient } from "mongodb";
 import { client } from "./src/services/mongodb";
+import characters from "./data/data.json";
 
 const app = express();
 const server = new Server(app);
-const PORT = process.env.PORT ? parseInt(process.env.PORT, 10) : 8080;
+const PORT = process.env.PORT ? parseInt(process.env.PORT, 10) : 5000;
 
 app.get("/api/superheroes/", async (req, res) => {
   const { casa } = req.query;
@@ -59,9 +60,13 @@ app.delete("/api/superheroes/:id", async (req, res) => {
   res.json(data);
 });
 
-const startApp = (db: MongoClient) => {
+const startApp = async (db: MongoClient) => {
+  if ((await db.db("spa").listCollections().toArray()).length < 1) {
+    db.db("spa").collection("superheroes").insertMany(characters);
+  }
+
   app
-    .listen(PORT, "localhost", function () {
+    .listen(PORT, "backend", function () {
       console.log(`Server is running on port ${PORT}.`);
     })
     .on("error", (err: any) => {
