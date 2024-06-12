@@ -14,7 +14,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="container flex items-center flex-col">
+    <div className="flex items-center flex-col">
       <NavBar />
       <h2 className="font-extrabold text-5xl tracking-wide uppercase mt-4">
         Superheroes
