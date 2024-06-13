@@ -4,14 +4,15 @@ import NavBar from "../components/NavBar";
 
 export default function Home() {
   const [characters, setCharacters] = useState([]);
+  const [search, setSearch] = useState("");
   const location = useLocation();
   const casa = location.pathname.split("/").at(-1);
 
   useEffect(() => {
-    fetch(`/api/superheroes?casa=${casa}`).then(async (char) =>
+    fetch(`/api/superheroes?casa=${casa}&nombre=${search}`).then(async (char) =>
       setCharacters(await char.json())
     );
-  }, []);
+  }, [search]);
 
   return (
     <div className="flex items-center flex-col">
@@ -29,6 +30,16 @@ export default function Home() {
           {casa}
         </p>
       )}
+
+      <input
+        type="text"
+        name="nombre"
+        id="nombre"
+        value={search}
+        onChange={(e) => setSearch(e.target.value)}
+        placeholder="Ingresa un superheroe..."
+        className="mt-3 block w-96 bg-gray-500/40 text-gray-300 py-2 px-3 shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+      />
 
       <div className="max-w-screen-xl grid grid-cols-4 gap-4 mt-10 mb-12">
         {characters?.map((c) => (

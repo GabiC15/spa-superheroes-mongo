@@ -7,6 +7,7 @@ export default function Create() {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
   const [success, setSuccess] = useState("");
+  const [known, setKnown] = useState(false);
   const history = useHistory();
   const [formData, setFormData] = useState({
     nombre: "",
@@ -26,12 +27,21 @@ export default function Create() {
     }
   }, []);
 
+  useEffect(() => {
+    if (params.id == "nuevo") {
+      fetch(`/api/superheroes/${formData.nombre}`).then(async (char) =>
+        setKnown((await char.json()) ? true : false)
+      );
+    }
+  }, [formData.nombre]);
+
   const handleChange = (event) => {
     setFormData({
       ...formData,
       [event.target.name]: event.target.value,
     });
   };
+  console.log(known);
 
   const handleCreate = async (event) => {
     event.preventDefault();
@@ -39,8 +49,8 @@ export default function Create() {
     setError(null);
 
     try {
-      const response = await fetch("/api/superheroes/", {
-        method: "POST",
+      const response = await fetch(`/api/superheroes/${formData.nombre}`, {
+        method: "PUT",
         headers: {
           "Content-Type": "application/json",
         },
@@ -167,23 +177,26 @@ export default function Create() {
         onSubmit={handleCreate}
         className="flex flex-col gap-4 min-w-[40rem] mb-10"
       >
-        <div>
-          <label
-            htmlFor="nombre"
-            className="block text-sm font-medium text-slate-200"
-          >
-            Nombre:
-          </label>
-          <input
-            type="text"
-            name="nombre"
-            id="nombre"
-            value={formData.nombre}
-            onChange={handleChange}
-            className="mt-1 block w-full rounded-md border border-gray-300 text-gray-800 bg-slate-300 py-2 px-3 shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
-          />
+        <div className="flex gap-3 items-end">
+          <div className="w-full">
+            <label
+              htmlFor="nombre"
+              className="block text-sm font-medium text-slate-200"
+            >
+              Nombre:
+            </label>
+            <input
+              type="text"
+              name="nombre"
+              id="nombre"
+              value={formData.nombre}
+              onChange={handleChange}
+              className="mt-1 block w-full rounded-md border border-gray-300 text-gray-800 bg-slate-300 py-2 px-3 shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+              required
+            />
+          </div>
+          {formData.nombre && <p className="text-4xl">{known ? "✅" : "❌"}</p>}
         </div>
-
         <div>
           <label
             htmlFor="nombrePersonaje"
@@ -215,24 +228,37 @@ export default function Create() {
             value={formData.anio}
             onChange={handleChange}
             className="mt-1 block w-full rounded-md border border-gray-300 text-gray-800 bg-slate-300 py-2 px-3 shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+            required
           />
         </div>
 
-        <div>
-          <label
-            htmlFor="casa"
-            className="block text-sm font-medium text-slate-200"
-          >
-            Casa:
-          </label>
-          <input
-            type="text"
-            name="casa"
-            id="casa"
-            value={formData.casa}
-            onChange={handleChange}
-            className="mt-1 block w-full rounded-md border border-gray-300 text-gray-800 bg-slate-300 py-2 px-3 shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
-          />
+        <div className="flex gap-4 justify-between items-end">
+          <div className="w-full">
+            <label
+              htmlFor="casa"
+              className="block text-sm font-medium text-slate-200"
+            >
+              Casa:
+            </label>
+            <input
+              type="text"
+              name="casa"
+              id="casa"
+              pattern="^(Marvel|DC)$"
+              placeholder="Marvel o DC"
+              value={formData.casa}
+              onChange={handleChange}
+              className="mt-1 block w-full rounded-md border border-gray-300 text-gray-800 bg-slate-300 py-2 px-3 shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+              required
+            />
+          </div>
+          {["dc", "marvel"].includes(formData.casa.toLowerCase()) && (
+            <img
+              src={`../src/assets/icons/${formData.casa}.png`}
+              className="h-12"
+              alt="Casa"
+            />
+          )}
         </div>
 
         <div>
@@ -248,6 +274,7 @@ export default function Create() {
             value={formData.biografia}
             onChange={handleChange}
             className="mt-1 block w-full rounded-md border border-gray-300 text-gray-800 bg-slate-300 py-2 px-3 shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+            required
           />
         </div>
 
@@ -265,14 +292,15 @@ export default function Create() {
             value={formData.equipamiento}
             onChange={handleChange}
             className="mt-1 block w-full rounded-md border border-gray-300 text-gray-800 bg-slate-300 py-2 px-3 shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
+            required
           />
         </div>
 
         {params.id == "nuevo" ? (
           <button
             type="submit"
-            className="text-center px-4 py-2 bg-green-500 border border-transparent rounded-md font-medium text-white hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 mt-2"
-            disabled={isLoading}
+            className="text-center px-4 py-2 bg-green-500 disabled:bg-green-400 border border-transparent rounded-md font-medium text-white hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 mt-2"
+            disabled={isLoading || !known}
           >
             {isLoading ? "Cargando..." : "Guardar Personaje"}
           </button>
